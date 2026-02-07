@@ -3,7 +3,7 @@
 ## Setup
 
 1. Fork this repository on GitHub.
-2. Open VSCode, open a terminal, and clone **your fork**:
+2. Open VSCode, open a terminal, and then clone **your fork**:
 git clone <your-fork-url>
 3. Change into the repository directory:
 cd git-assignment-2
@@ -42,7 +42,7 @@ git push
 - It should look like: `main <- writing`
 
 7. Merge the pull request on GitHub.  
-(If GitHub does not let you merge, you likely pull requested upstream by mistake.)
+(If GitHub does not let you merge, you likely opened a pull request upstream by mistake.)
 
 8. After merging, your `main` branch and your `writing` branch on GitHub should look identical.
 
@@ -63,7 +63,7 @@ git status
 git pull
 
 4. Add a new line below: \
-school is lwk fun
+- school is lwk fun
 
 5. Add, commit, and push your changes:
   - git add README.md
